@@ -1,0 +1,25 @@
+body{
+    margin: 0px 120px opx 120px;
+    padding-left: 75px;
+    padding-right: 75px;
+    background-color: cornflowerblue;
+}
+h1{
+    color: palevioletred;
+    text-align: center;
+}
+h2{
+    color: palevioletred;
+    text-align: center;
+}
+img{
+    width: 80px;
+}
+.foto{
+    display:flex;
+    justify-content:center;
+}
+.fotooo{
+    display: flex;
+    align-items: center;
+}
